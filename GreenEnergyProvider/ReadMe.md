@@ -20,4 +20,4 @@ Use this information to answer the questions below:
  3. We can send an email to members to invite them to refer their friends. We can choose when, and to whom, we send the emails. How would you suggest we proceed?
  
  
-You should aim to spend 2-3 hours on this task. If you have to make some assumptions or leave some ‘future work’ in the interests of time, no problem, just make a note in your submission.
+The results of this exercice can be found in the notebook "GreenEnergyProvider_DataScientistCodingTest.ipynb"
