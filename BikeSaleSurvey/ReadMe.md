@@ -1,11 +1,7 @@
 
 # Bike Sale Analysis 
 
-The goal of this challenge was to provide a dashbord allowing the analysis of bike sale survey. 
-
-The dashbord is done with Power Bi and can be found in this folder (as .pbix and pdf). 
-
-Based on this dashboard, some insights and recommendation can be done. 
+The goal of this challenge was to provide a dashboard (Power BI) allowing the analysis of bike sale survey. Based on this dashboard, some insights and recommendation can be done. 
 
 ## Enhanced Insights
 
